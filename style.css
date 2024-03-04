@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header-left {
+    font-size: 20px;
+    color: #00008B;
+    font-weight: bold;
+    margin: 10px 15px;
+    float: left;
+}
+
+.header-right {
+    position: absolute;
+    right: 0;
+}
+
+
+.header-right li {
+    list-style: none;
+    float: left;
+    margin: 15px 10px;
+}
+
+
+
+h1 {
+    padding-top: 500px;
+    font-size: 50px;
+    font-weight: lighter
+}
+
+img {
+    position: absolute;
+    top: 20%;
+    right: 0%;
+    bottom: auto;
+    left: auto;
+}
+
+.blue-box {
+    background: #00008B;
+    width: 1000px;
+    height: 200px;
+}
